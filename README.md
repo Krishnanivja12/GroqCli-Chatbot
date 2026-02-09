@@ -67,7 +67,7 @@
 
 ```bash
 # 1. Clone repository
-git clone <https://github.com/Krishnanivja12/GroqCli-Chatbot.git>
+git clone https://github.com/Krishnanivja12/GroqCli-Chatbot.git
 cd GroqCli-chatbot
 
 # 2. Install with UV (recommended)
@@ -103,7 +103,7 @@ powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # Clone and install
-git clone <https://github.com/Krishnanivja12/GroqCli-Chatbot.git>
+git clone https://github.com/Krishnanivja12/GroqCli-Chatbot.git
 cd GroqCli-chatbot
 uv sync
 ```
@@ -112,7 +112,7 @@ uv sync
 
 ```bash
 # Clone repository
-git clone <https://github.com/Krishnanivja12/GroqCli-Chatbot.git>
+git clone https://github.com/Krishnanivja12/GroqCli-Chatbot.git
 cd GroqCli-chatbot
 
 # Create virtual environment
